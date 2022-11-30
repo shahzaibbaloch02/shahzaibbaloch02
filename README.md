@@ -31,10 +31,10 @@
 </tr>
     <tr>
         <td align='center' width="150" height="150">
-        <img src="https://github.com/shahzaibbaloch02/muhammadshahzaib/blob/main/images/ant-design.png" width="100">
+        <img src="https://github.com/shahzaibbaloch02/shahzaibbaloch02/blob/main/images/ant-design.png" width="100">
     </td>
         <td align='center' width="150" height="150">
-        <img src="https://github.com/shahzaibbaloch02/muhammadshahzaib/blob/main/images/prime-faces.png" width="100">
+        <img src="https://github.com/shahzaibbaloch02/shahzaibbaloch02/blob/main/images/prime-faces.png" width="100">
     </td>
 </table>
 </br>
@@ -133,7 +133,7 @@
         <img src="https://github.com/shahzaibbaloch02/shahzaibbaloch02/blob/main/images/aws.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shahzaibbaloch02/muhammadshahzaib/blob/main/images/google-cloud.png" width="250" >
+        <img src="https://github.com/shahzaibbaloch02/shahzaibbaloch02/blob/main/images/google-cloud.png" width="250" >
     </td>
 </tr>
 </table>
